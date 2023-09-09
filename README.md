@@ -54,7 +54,7 @@
   
   - After installing the packages, update your database then add your Roles/Subscriptions/Countries in the database and you good to go.
 ## PREVIEW
-  [![MovieApp](https://img.youtube.com/vi/MJx2zAM_ojk/0.jpg)](https://www.youtube.com/watch?v=MJx2zAM_ojk "MovieApp")
+  [![MovieApp](https://lh3.google.com/u/0/d/1B1XRLe0l94e9TTL-Vo_dF9aG5O6PsM56=w1920-h893-iv1)](https://drive.google.com/file/d/1NKLajrb7A8-cKuMU6N71ByI0SYwFs0Dc/view "MovieApp")
 
 ## ABOUT
   **Mohamed Hamdi**  
